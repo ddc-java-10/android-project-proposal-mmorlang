@@ -6,7 +6,7 @@ layout: default
 
 ## Summary
 
-The purpose of this app is to help manage your time whether its in a more relaxful, orgainized, purposeful or productive way.
+The purpose of this app is to help manage your time whether its in a more relaxful, orgainized, purposeful or productive way. By the limitation of screen time distractions.
 
 ## Intended users
 
