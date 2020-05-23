@@ -13,16 +13,11 @@ The purpose of this app is to help manage your time whether its in a more relaxf
 
 
 > As a Individual who has limited time I want to prioritize my time so that I can be as prodictive as possible.
-
-
-  >Sometimes it can be hard for me to focus on a current task and give it my full attention so this app will help me be free of notification distractions.
-
+Sometimes it can be hard for me to focus on a current task and give it my full attention so this app will help me be free of notification distractions.
 
 
 > As a Individual who can get caught up in technology I want to be able to set aside time discration free.
-
-
-  >With alot of things being technology based I would like to use this app to get from screen time by turning off the notifications thus limiting the distractions
+With alot of things being technology based I would like to use this app to get from screen time by turning off the notifications thus limiting the distractions
 
 
 ## Functionality
