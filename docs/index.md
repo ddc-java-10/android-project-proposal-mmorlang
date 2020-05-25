@@ -1,5 +1,5 @@
 ---
-title: Time Manager
+title: Time Managment
 description: "Make the most of your time!"
 layout: default
 ---
@@ -16,8 +16,8 @@ The purpose of this app is to help manage your time whether its in a more relaxf
 Sometimes it can be hard for me to focus on a current task and give it my full attention so this app will help me be free of notification distractions.
 
 
-> As a Individual who can get caught up in technology I want to be able to set aside time discration free.
-With alot of things being technology based I would like to use this app to get from screen time by turning off the notifications thus limiting the distractions
+> As a Individual who can get caught up in technology I want to be able to set aside time distraction free.
+With alot of things being technology based I would like to use this app to get from screen time by turning off the nohtifications thus limiting the distractions
 
 
 ## Functionality
@@ -40,4 +40,4 @@ With alot of things being technology based I would like to use this app to get f
 
 ## Stretch goals/possible enhancements 
 
-My stretch goal will be to explore the possibility of connecting to SMS and calling portions of the phone and generating an automatic response. Another would be an option you can set would be that certain keywords can be entered on the side opposite of the user in case of emergencies to allow a notificaion through.
+My stretch goal will be to explore the possibility of connecting to SMS and calling portions of the phone that would generate a automatic response when you have certain times scheduled. Another would be an option you can set would be that certain keywords can be entered in case of emergencies to allow a notificaion through.
