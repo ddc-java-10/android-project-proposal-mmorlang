@@ -11,12 +11,12 @@ The purpose of this app is to help manage your time whether its to be used in a 
 ## Intended users
 
 
--Individuals who have limited time and want to prioritize their time so that they can be as prodictive as possible.
+- Individuals who have limited time and want to prioritize their time so that they can be as prodictive as possible.
 
 > Sometimes it can be hard for me to focus on a current task and give it my full attention so this app will help me be free of notification distractions during that time of concentration.
 
 
--Individual who can get caught up in technology and want to be able to set aside time distraction free.
+- Individual who can get caught up in technology and want to be able to set aside time distraction free.
 
 
 >With alot of things being technology based I would like to use this app to get from screen time by turning off the notifications thus limiting the distractions to enjoy other aspects of life.
@@ -24,11 +24,11 @@ The purpose of this app is to help manage your time whether its to be used in a 
 
 ## Functionality
 
--Works with notification system to let the user block notifications during set timeframes.
+- Works with notification system to let the user block notifications during set timeframes.
 
--Uses scheduling to repeat timeframes that have been previously set by user.
+- Uses scheduling to repeat timeframes that have been previously set by user.
 
--Records users login to save previously set timeframes and apps that have been chosen.
+- Records users login to save previously set timeframes and apps that have been chosen.
 ## Persistent data
 
 - Stores users settings based apon login
