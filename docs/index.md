@@ -29,16 +29,21 @@ The purpose of this app is to help manage your time whether its to be used in a 
 - Uses scheduling to repeat timeframes that have been previously set by user.
 
 - Records users login to save previously set timeframes and apps that have been chosen.
+
+
 ## Persistent data
 
-- Stores users settings based apon login
+- Stores users settings based apon login.
 - Stores previously set timeframes for reuse if selected.
 - Remains connected with chosen apps.
     
+
 ## Device/external services
 
 - Apps that have been connected.
 - Devices notitfication and scheduling systems.
+
+
 ## Stretch goals/possible enhancements 
 
 My stretch goal will be to explore the possibility of connecting to SMS and calling aspects of the phone that would generate a automatic response when you have certain times scheduled. Another would be an option you can set would be that certain keywords can be entered in case of emergencies to allow a notificaion through.
