@@ -42,6 +42,7 @@ The purpose of this app is to help manage your time whether its to be used in a 
 
 - Apps that have been connected.
 - Devices notitfication and scheduling systems.
+- Google sign in.
 - [Api for notitfications](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API/Using_the_Notifications_API)
 
 ## Stretch goals/possible enhancements 
