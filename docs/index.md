@@ -30,6 +30,7 @@ The purpose of this app is to help manage your time whether its to be used in a 
 
 - Records users login to save previously set timeframes and apps that have been chosen.
 
+- Displays notifications summary of items that were blocked during set time frame.
 
 ## Persistent data
 
